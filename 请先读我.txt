@@ -1,0 +1,20 @@
+登陆功能：
+	账号：admin
+	密码：000000
+
+注册功能：暂未实现
+
+主要功能：商品管理——增删改查，支持批量删除
+
+
+技术栈:
+服务端：Spring + SpringMVC + Mybatis
+数据库：mysql 8.0.22
+项目管理：Maven
+前端： jQuery + BootStrap + javaScript
+开发工具：idea
+web服务器：tomcat 9.0.65
+数据库管理系统：Navicat 15	下载地址：https://cloud.tencent.com/developer/article/1804255
+
+注：
+运行项目需要的资源在资源包中。
