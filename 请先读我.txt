@@ -14,7 +14,7 @@
 前端： jQuery + Bootstrap + JavaScript
 开发工具：IDEA 2021
 web服务器：tomcat 9.0.65
-数据库管理系统：Navicat 15	下载地址：https://cloud.tencent.com/developer/article/1804255
+数据库可视化管理工具：Navicat 15	下载地址：https://cloud.tencent.com/developer/article/1804255
 
 数据库连接信息：
 jdbc.driver=com.mysql.cj.jdbc.Driver
