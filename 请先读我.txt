@@ -4,15 +4,15 @@
 
 注册功能：暂未实现
 
-主要功能：商品管理——增删改查，支持批量删除
+主要功能：商品的增删改查，支持批量删除
 
 
 技术栈:
 服务端：Spring + SpringMVC + Mybatis
 数据库：mysql 8.0.22
 项目管理：Maven
-前端： jQuery + BootStrap + javaScript
-开发工具：idea
+前端： jQuery + Bootstrap + JavaScript
+开发工具：IDEA 2021
 web服务器：tomcat 9.0.65
 数据库管理系统：Navicat 15	下载地址：https://cloud.tencent.com/developer/article/1804255
 
@@ -22,5 +22,4 @@ jdbc.url=jdbc:mysql://localhost:3306/mimissm?useSSL=false&serverTimezone=Asia/Sh
 jdbc.username=root
 jdbc.password=123456
 
-注：
-运行项目需要的资源在资源包中。
+注：项目运行需要的资源在资源包中。
